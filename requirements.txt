@@ -1,0 +1,6 @@
+certifi==2025.1.31
+charset-normalizer==3.4.1
+dearpygui @ file:///home/miguelus/Desktop/homeworks/binance-python/dist/dearpygui-2.0.0-cp310-cp310-manylinux1_x86_64.whl#sha256=68f749fcd36ffc9cef399fb64b0dab5a4075c63574150a163208f8204f778859
+idna==3.10
+requests @ file:///home/miguelus/Desktop/homeworks/binance-python/dist/requests-2.32.3-py3-none-any.whl#sha256=70761cfe03c773ceb22aa2f671b4757976145175cdfca038c02654d061d6dcc6
+urllib3==2.3.0
